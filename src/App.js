@@ -12,7 +12,7 @@ import Register from "./pages/Register";
 import Login from "./pages/Login";
 import ResetPassword from "./pages/ResetPassword";
 import Perfil from "./pages/Perfil";
-import Dashboard from "./pages/Dashboard";
+import Dashboard from "../pages/Dashboard";
 
 function App() {
   return (
